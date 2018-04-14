@@ -1,1 +1,4 @@
 Teste Parte 2
+
+Cs é um jogo que tu n corre, que tu coloca a arma no bolso magico  e o boneco fica mais leve, quando tu aperta shift tu anda mais lento... , quando tu leva tiro tu n pode fugir pq fica lento,
+ quando tu troca de arma ela volta magicamente com munição no ferrolho. 
